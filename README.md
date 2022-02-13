@@ -14,7 +14,7 @@ Web developer from Italy, tech enthusiast, passionate about Software and Web dev
 - 🥅 My Goal is to Complete learning my Full Stack development Stack
 - 🤔 Looking for help with Front-End Animation Frameworks
 - 📫 How to reach me: luca.verthuy@gmail.com
-- ⚡ Fun fact: my brain doesn't work if i dont get my cup of Tea! 
+- ⚡ Fun fact: my brain doesn't work if i dont get my cup of Tea first! 
 <br />
 
 
