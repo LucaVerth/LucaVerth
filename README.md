@@ -23,34 +23,34 @@ Web developer from Italy, tech enthusiast, passionate about Software and Web dev
 <div align="center">
   
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60" style="margin:15px">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 
 
 <br>
 
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-  <a target="blank">_</a>
+  <a target="blank">  </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 
 
