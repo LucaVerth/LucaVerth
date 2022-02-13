@@ -4,16 +4,14 @@
 
 <h3 align="center">I'm a Junior Full Stack Web Developer from Italy</h3>
   
-A 27Y/O Web developer from Italy, passionate about Software and Web development. I really enjoy learning something new all the times such as new languages and frameworks.
+27Y/O Web developer from Italy, tech enthusiast, passionate about Software and Web development. I really enjoy learning something new all the times such as new languages and frameworks.
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Python and ReactJs
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_the.odist_) 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- 
+- 🌱 I’m currently learning Laravel, PHP and VueJs
+- ⚡ Fun fact: my brain doesn't work if i dont get my cup of Tea ! 
 <br />
 
 
@@ -44,9 +42,9 @@ A 27Y/O Web developer from Italy, passionate about Software and Web development.
 
 ## 🏆 Github Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaVerth&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=LucaVerth&theme=synthwave" width="45%" align="right" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaVerth&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaVerth&layout=compact&theme=synthwave" width="45%" >
 
 
 <br>
