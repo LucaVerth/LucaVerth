@@ -7,7 +7,7 @@
 Web developer from Italy, tech enthusiast, passionate about Software and Web development. I really enjoy learning something new all the times such as new languages and frameworks.
 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Working on Portfolio and Boolean final Project
 - 🌱 I’m currently learning Python, TypeScript and ReactJs
