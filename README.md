@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Junior Full Stack Web Developer from Italy</h3>
   
-27Y/O Web developer from Italy, tech enthusiast, passionate about Software and Web development. I really enjoy learning something new all the times such as new languages and frameworks.
+Web developer from Italy, tech enthusiast, passionate about Software and Web development. I really enjoy learning something new all the times such as new languages and frameworks.
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
