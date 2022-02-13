@@ -42,9 +42,9 @@ Web developer from Italy, tech enthusiast, passionate about Software and Web dev
 
 ## 🏆 Github Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=LucaVerth&theme=synthwave" width="45%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=LucaVerth&theme=chartreuse-dark" width="45%" align="right" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaVerth&layout=compact&theme=synthwave" width="45%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaVerth&layout=compact&theme=chartreuse-dark" width="45%" >
 
 
 <br>
