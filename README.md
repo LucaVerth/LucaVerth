@@ -49,9 +49,6 @@ A 27Y/O Web developer from Italy, passionate about Software and Web development.
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
 
 <br>
 
