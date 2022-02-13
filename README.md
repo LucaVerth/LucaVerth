@@ -22,7 +22,8 @@ Web developer from Italy, tech enthusiast, passionate about Software and Web dev
 
 <div align="center">
   
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60" style="margin:5px">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60" style="margin:15px">
+  <a target="blank"> </a>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="60" width="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height="60" width="60">
