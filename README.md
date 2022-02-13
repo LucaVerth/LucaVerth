@@ -9,9 +9,11 @@ Web developer from Italy, tech enthusiast, passionate about Software and Web dev
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 
-- 🌱 I’m currently learning Laravel, PHP and VueJs
-- ⚡ Fun fact: my brain doesn't work if i dont get my cup of Tea ! 
+- 🔭 Working on Portfolio and Boolean final Project
+- 🌱 I’m currently learning Python, TypeScript and ReactJs
+- 🤔 Looking for help with Front-End Animation Frameworks
+- 📫 How to reach me: luca.verthuy@gmail.com
+- ⚡ Fun fact: my brain doesn't work if i dont get my cup of Tea! 
 <br />
 
 
