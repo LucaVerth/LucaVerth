@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Ciao! (Hello), I'm Luca Verthuy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="10px"> ! </h1>
+<h1 align="center"> Ciao! (Hello), I'm Luca Verthuy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> ! </h1>
 
 <h3 align="center">I'm a Junior Full Stack Web Developer</h3>
   
