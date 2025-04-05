@@ -13,7 +13,6 @@ Web developer from Italy, tech enthusiast, passionate about Software and Web dev
 - 🌱 I’m currently learning Python, TypeScript and ReactJs
 - 🥅 My Goal is to Complete learning my Full Stack development Stack
 - 🤔 Looking for help with Front-End Animation Libraries
-- 📫 How to reach me: luca.verthuy@gmail.com
 - ⚡ Fun fact: my brain doesn't work if i dont get my cup of Tea first! 
 <br />
 
